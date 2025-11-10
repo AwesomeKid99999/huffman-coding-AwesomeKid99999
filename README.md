@@ -1,5 +1,5 @@
 # Huffman Coding Lab
-This is a coding assigment that I did in one of my computer science classes. Our professor encouraged us to post it to our personal GitHub, so that's what I did. This program should compress text files roughly 60% of their original size. But in very small text files, the compressed file will often be bigger.
+This is a coding assignment from one of my computer science classes, posted with my professor’s encouragement. It implements Huffman coding to compress text files to about 60% of their original size, though very small files may expand slightly.
 
 ## How To Use This Program
 This program will first ask you whether you want to compress or decompress a text file. Then it will ask you where to look for the file to compress/decompress (input path). After you enter in the input file path, you have to state where you want to save the compressed/decompressed file (output path). 
